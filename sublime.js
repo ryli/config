@@ -26,7 +26,6 @@
 	[
 		"Color Highlighter",
 		"Vintageous",
-		"PlainTasks",
 		"Phpcs",
 		"Vintage",
 		"GoSublime"
